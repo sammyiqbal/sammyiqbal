@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:e94560&height=150&section=header&text=Saman%20Iqbal%20Ansari&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Building%20tech-driven%20solutions%20to%20real-world%20problems%20🚀&descAlignY=68&descColor=e94560&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:e94560&height=150&section=header&text=Saman%20Iqbal%20Ansari&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Building%20tech-driven%20solutions%20to%20real-world%20problems%20&descAlignY=68&descColor=e94560&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=750&lines=BTech+%40+NST+%7C+Rishihood+University+%F0%9F%8E%93;Data+Science+%7C+ML+%7C+Full-Stack+Developer+%F0%9F%A4%96;Building+Intelligent+Apps+%26+Dashboards+%F0%9F%93%8A;Open+to+Collaborations+%26+Internships+%F0%9F%91%8B;When+not+coding%2C+on+the+football+field+%E2%9A%BD)](https://git.io/typing-svg)
 
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hi there, I'm Saman!
+## Hi there, I'm Saman!
 
 > 🎓 **BTech @ Rishihood University × Newton School of Technology** | 2nd Year  
 > 📍 **India** &nbsp;|&nbsp; **samaniqbal2468@gmail.com**  
@@ -40,7 +40,7 @@
 
 <div align="center">
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -48,7 +48,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -56,7 +56,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -90,12 +90,12 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📊 IBM HR Analytics](https://github.com/sammyiqbal/IBM_HR_Analytics) | Employee attrition analysis using ML — identifying key factors driving workforce turnover | Python · Pandas · Scikit-learn |
-| [🛍️ Google Play Store EDA](https://github.com/sammyiqbal/GooglePlayStore_EDA) | Exploratory data analysis on 10k+ Play Store apps uncovering trends & patterns | Python · Jupyter · Matplotlib |
-| [🤖 Agentic AI Coach](https://github.com/sammyiqbal/Agentic-Ai-coach) | AI-powered coaching agent built with agentic workflows and LLMs | Python · Jupyter · LLMs |
-| [🎉 EventHive](https://github.com/sammyiqbal/EventHive) | Full-stack event management platform with real-time features | JavaScript · Node.js |
-| [💰 Bankaroo](https://github.com/sammyiqbal/Bankaroo) | Banking & finance app with clean UI and transaction management | TypeScript |
-| [⏱️ StopWatch Clock](https://github.com/sammyiqbal/stop_watch_clock) | Responsive stopwatch with start, stop & reset — vanilla JS | HTML · CSS · JavaScript |
+| [ IBM HR Analytics](https://github.com/sammyiqbal/IBM_HR_Analytics) | Employee attrition analysis using ML — identifying key factors driving workforce turnover | Python · Pandas · Scikit-learn |
+| [ Google Play Store EDA](https://github.com/sammyiqbal/GooglePlayStore_EDA) | Exploratory data analysis on 10k+ Play Store apps uncovering trends & patterns | Python · Jupyter · Matplotlib |
+| [ Agentic AI Coach](https://github.com/sammyiqbal/Agentic-Ai-coach) | AI-powered coaching agent built with agentic workflows and LLMs | Python · Jupyter · LLMs |
+| [ EventHive](https://github.com/sammyiqbal/EventHive) | Full-stack event management platform with real-time features | JavaScript · Node.js |
+| [ Bankaroo](https://github.com/sammyiqbal/Bankaroo) | Banking & finance app with clean UI and transaction management | TypeScript |
+| [ StopWatch Clock](https://github.com/sammyiqbal/stop_watch_clock) | Responsive stopwatch with start, stop & reset — vanilla JS | HTML · CSS · JavaScript |
 
 </div>
 
@@ -116,7 +116,7 @@
 
 ---
 
-## 🎯 2026 Goals
+##  2026 Goals
 
 - [ ] Land a Data Science / ML internship
 - [ ] Contribute to 5+ open source projects
@@ -126,7 +126,7 @@
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 <div align="center">
 
