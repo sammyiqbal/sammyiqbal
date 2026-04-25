@@ -27,7 +27,7 @@
 ## 🧠 About Me
 
 python
-#!/usr/bin/env python3
+'''#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 class SamanIqbalAnsari:
@@ -53,7 +53,7 @@ class SamanIqbalAnsari:
 
 me = SamanIqbalAnsari()
 me.say_hi()
-
+'''
 ---
 
 ## 🛠️ Tech Stack & Tools
