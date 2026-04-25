@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:e94560&height=160&section=header&text=Saman%20Iqbal%20Ansari&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Building%20tech-driven%20solutions%20to%20real-world%20problems%20🚀&descAlignY=65&descColor=e94560&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1a1a2e,100:e94560&height=150&section=header&text=Saman%20Iqbal%20Ansari&fontSize=40&fontColor=ffffff&fontAlignY=45&desc=Building%20tech-driven%20solutions%20to%20real-world%20problems%20🚀&descAlignY=68&descColor=e94560&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=E94560&center=true&vCenter=true&width=750&lines=BTech+%40+NST+%7C+Rishihood+University+%F0%9F%8E%93;Data+Science+%7C+ML+%7C+Full-Stack+Developer+%F0%9F%A4%96;Building+Intelligent+Apps+%26+Dashboards+%F0%9F%93%8A;Open+to+Collaborations+%26+Internships+%F0%9F%91%8B;When+not+coding%2C+on+the+football+field+%E2%9A%BD)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 ## 👋 Hi there, I'm Saman!
 
 > 🎓 **BTech @ Rishihood University × Newton School of Technology** | 2nd Year  
-> 📍 **India** &nbsp;|&nbsp;  **samaniqbal2468@gmail.com**  
+> 📍 **India** &nbsp;|&nbsp; **samaniqbal2468@gmail.com**  
 > 💡 Passionate about turning data into decisions and ideas into products  
 > ⚽ Football player off-screen, problem solver on-screen
 
@@ -75,16 +75,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammyiqbal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyiqbal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyiqbal&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammyiqbal&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=sammyiqbal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyiqbal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=6"/>
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyiqbal&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
 </div>
 
 ---
