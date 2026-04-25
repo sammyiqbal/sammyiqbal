@@ -24,18 +24,13 @@
 
 ---
 
-## 🧠 About Me
-
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🤖 Deeply interested in **Machine Learning, Data Science & Agentic AI**
-- 🌐 Also build full-stack web across diverse stacks
-- 📊 Love converting raw data into **actionable insights & dashboards**
-- 🌱 Currently exploring **LLMs, Agentic AI workflows & MLOps**
-- 💼 Open to **internships, collaborations & open source contributions**
-- ⚽ When I'm not coding, I'm on the **football field**
-- 📧 Reach me at **samaniqbal2468@gmail.com**
-- ⚡ Fun fact: *I once wrote a Python script to analyze my own football match stats!*
+- Deeply interested in **Machine Learning, Data Science & Agentic AI**
+- Also build full-stack web across diverse stacks
+- Love converting raw data into **actionable insights & dashboards**
+- Currently exploring **LLMs, Agentic AI workflows & MLOps**
+- Open to **internships, collaborations & open source contributions**
 
 <br clear="right"/>
 
@@ -75,9 +70,16 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=sammyiqbal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyiqbal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=6"/>
-  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyiqbal&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammyiqbal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyiqbal&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyiqbal&theme=dark&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560"/>
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=sammyiqbal&bg_color=0d1117&color=e94560&line=e94560&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 ---
@@ -116,11 +118,11 @@
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Land a Data Science / ML internship
-- [ ] 🤝 Contribute to 5+ open source projects
-- [ ] 🎤 Improve public speaking
-- [ ] ⚽ Win a football tournament
-- [ ] 🏔️ Go for Trekking
+- [ ] Land a Data Science / ML internship
+- [ ] Contribute to 5+ open source projects
+- [ ] Improve public speaking
+- [ ] Win a football tournament
+- [ ] Go for Trekking
 
 ---
 
@@ -141,7 +143,7 @@
 
 ## ⚡ Fun Fact
 
-> *"I analyze my football match performance with Python scripts the same way I analyze datasets — looking for patterns, weaknesses, and room to improve 📊⚽"*
+> *" I analyze my football match performance with Python scripts the same way I analyze datasets — looking for patterns, weaknesses, and room to improve "*
 
 ---
 
@@ -149,8 +151,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,60:1a1a2e,100:0d1117&height=100&section=footer"/>
 
-**⭐ If you find my work interesting, drop a star — it motivates me to keep building! ⭐**
-
-*Made with ❤️ by Saman Iqbal Ansari*
+**If you find my work interesting, drop a star — it motivates me to keep building!**
 
 </div>
