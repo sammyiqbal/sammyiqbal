@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammyiqbal&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9"/>
@@ -84,7 +84,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
@@ -101,7 +101,7 @@
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
