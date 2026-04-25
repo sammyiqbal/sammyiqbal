@@ -18,42 +18,20 @@
 ## 👋 Hi there, I'm Saman!
 
 > 🎓 **BTech @ Rishihood University × Newton School of Technology** | 2nd Year  
-> 📍 **India** &nbsp;|&nbsp; 📧 **samaniqbal2468@gmail.com**  
+> 📍 **India** &nbsp;|&nbsp;  **samaniqbal2468@gmail.com**  
 > 💡 Passionate about turning data into decisions and ideas into products  
 > ⚽ Football player off-screen, problem solver on-screen
 
 ---
+ 
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 🧠 About Me
-
-```python
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-
-class SamanIqbalAnsari:
-    def __init__(self):
-        self.name        = "Saman Iqbal Ansari"
-        self.username    = "sammyiqbal"
-        self.role        = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
-        self.education   = "BTech @ NST | Rishihood University (2nd Year)"
-        self.location    = "India "
-        self.stack       = {
-            "data_ml"  : ["Python", "Pandas", "NumPy", "Scikit-learn", "Jupyter"],
-            "frontend" : ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"],
-            "backend"  : ["Node.js", "Express.js"],
-            "tools"    : ["Git", "GitHub", "VS Code", "Postman"]
-        }
-        self.currently_learning = ["Agentic AI", "LLMs", "MLOps"]
-        self.open_to     = ["Internships", "Collaborations", "Open Source"]
-        self.fun_fact    = "I analyze my football match stats with Python "
-
-    def say_hi(self):
-        print("Thanks for visiting my profile!")
-        print("Let's connect and build something amazing together ")
-
-me = SamanIqbalAnsari()
-me.say_hi()
-```
+- Deeply interested in **Machine Learning, Data Science & Agentic AI**
+- Also build full-stack web across diverse stacks
+- Love converting raw data into **actionable insights & dashboards**
+- Currently exploring **LLMs, Agentic AI workflows & MLOps**
+- Open to **internships, collaborations & open source contributions**
+<br clear="right"/>
 
 ---
 
