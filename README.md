@@ -26,8 +26,8 @@
 
 ## 🧠 About Me
 
-python
-'''#!/usr/bin/env python3
+```python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 class SamanIqbalAnsari:
@@ -36,7 +36,7 @@ class SamanIqbalAnsari:
         self.username    = "sammyiqbal"
         self.role        = ["Data Scientist", "ML Engineer", "Full-Stack Developer"]
         self.education   = "BTech @ NST | Rishihood University (2nd Year)"
-        self.location    = "India 📍"
+        self.location    = "India "
         self.stack       = {
             "data_ml"  : ["Python", "Pandas", "NumPy", "Scikit-learn", "Jupyter"],
             "frontend" : ["HTML5", "CSS3", "JavaScript", "TypeScript", "React"],
@@ -45,22 +45,23 @@ class SamanIqbalAnsari:
         }
         self.currently_learning = ["Agentic AI", "LLMs", "MLOps"]
         self.open_to     = ["Internships", "Collaborations", "Open Source"]
-        self.fun_fact    = "I analyze my football match stats with Python 📊⚽"
+        self.fun_fact    = "I analyze my football match stats with Python "
 
     def say_hi(self):
         print("Thanks for visiting my profile!")
-        print("Let's connect and build something amazing together 🚀")
+        print("Let's connect and build something amazing together ")
 
 me = SamanIqbalAnsari()
 me.say_hi()
-'''
+```
+
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🤖 Data Science & Machine Learning
+###  Data Science & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -68,7 +69,7 @@ me.say_hi()
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 Web Development
+###  Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -76,7 +77,7 @@ me.say_hi()
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🛠️ Tools & Platforms
+###  Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -110,12 +111,12 @@ me.say_hi()
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📊 IBM HR Analytics](https://github.com/sammyiqbal/IBM_HR_Analytics) | Employee attrition analysis using ML — identifying key factors driving workforce turnover | Python · Pandas · Scikit-learn |
-| [🛍️ Google Play Store EDA](https://github.com/sammyiqbal/GooglePlayStore_EDA) | Exploratory data analysis on 10k+ Play Store apps uncovering trends & patterns | Python · Jupyter · Matplotlib |
-| [🤖 Agentic AI Coach](https://github.com/sammyiqbal/Agentic-Ai-coach) | AI-powered coaching agent built with agentic workflows and LLMs | Python · Jupyter · LLMs |
-| [🎉 EventHive](https://github.com/sammyiqbal/EventHive) | Full-stack event management platform with real-time features | JavaScript · Node.js |
-| [💰 Bankaroo](https://github.com/sammyiqbal/Bankaroo) | Banking & finance app with clean UI and transaction management | TypeScript |
-| [⏱️ StopWatch Clock](https://github.com/sammyiqbal/stop_watch_clock) | Responsive stopwatch with start, stop & reset — vanilla JS | HTML · CSS · JavaScript |
+| [IBM HR Analytics](https://github.com/sammyiqbal/IBM_HR_Analytics) | Employee attrition analysis using ML — identifying key factors driving workforce turnover | Python · Pandas · Scikit-learn |
+| [Google Play Store EDA](https://github.com/sammyiqbal/GooglePlayStore_EDA) | Exploratory data analysis on 10k+ Play Store apps uncovering trends & patterns | Python · Jupyter · Matplotlib |
+| [Agentic AI Coach](https://github.com/sammyiqbal/Agentic-Ai-coach) | AI-powered coaching agent built with agentic workflows and LLMs | Python · Jupyter · LLMs |
+| [EventHive](https://github.com/sammyiqbal/EventHive) | Full-stack event management platform with real-time features | JavaScript · Node.js |
+| [Bankaroo](https://github.com/sammyiqbal/Bankaroo) | Banking & finance app with clean UI and transaction management | TypeScript |
+| [StopWatch Clock](https://github.com/sammyiqbal/stop_watch_clock) | Responsive stopwatch with start, stop & reset — vanilla JS | HTML · CSS · JavaScript |
 
 </div>
 
@@ -130,7 +131,7 @@ me.say_hi()
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-> *"Building agentic AI systems and diving deep into MLOps pipelines 🔥"*
+> *"Building agentic AI systems and diving deep into MLOps pipelines "*
 
 </div>
 
@@ -138,11 +139,11 @@ me.say_hi()
 
 ## 🎯 2026 Goals
 
-- [ ] 🏆 Land a Data Science / ML internship
-- [ ] 🤝 Contribute to 5+ open source projects
-- [ ] 📦 Ship 3 production-ready ML projects
-- [ ] 📝 Start writing technical blogs on Medium/Hashnode
-- [ ] ⭐ Hit 50 GitHub followers
+- [ ] Land a Data Science / ML internship
+- [ ] Contribute to 5+ open source projects
+- [ ] Improve public speaking
+- [ ] Win a football tournament
+- [ ] Go for Trekking
 
 ---
 
@@ -150,7 +151,7 @@ me.say_hi()
 
 <div align="center">
 
-> I'm always open to collaborating on interesting projects, discussing new ideas, or just geeking out about tech and football ⚽
+> I'm always open to collaborating on interesting projects, discussing new ideas, or just geeking out about tech and football!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saman%20Iqbal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saman-iqbal-a-a60697304)
 [![Gmail](https://img.shields.io/badge/Gmail-samaniqbal2468-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samaniqbal2468@gmail.com)
@@ -163,7 +164,7 @@ me.say_hi()
 
 ## ⚡ Fun Fact
 
-> *"I analyze my football match performance with Python scripts the same way I analyze datasets — looking for patterns, weaknesses, and room to improve 📊⚽"*
+> *"I analyze my football match performance with Python scripts the same way I analyze datasets — looking for patterns, weaknesses, and room to improve"*
 
 ---
 
@@ -171,8 +172,7 @@ me.say_hi()
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,60:1a1a2e,100:0d1117&height=120&section=footer"/>
 
-**⭐ If you find my work interesting, drop a star — it motivates me to keep building! ⭐**
+** If you find my work interesting, drop a star — it motivates me to keep building! **
 
-*Made with ❤️ by Saman Iqbal Ansari*
 
 </div>
