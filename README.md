@@ -24,7 +24,7 @@
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - Deeply interested in **Machine Learning, Data Science & Agentic AI**
 - Also build full-stack web across diverse stacks
@@ -110,7 +110,7 @@
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-> *"Building agentic AI systems and diving deep into MLOps pipelines 🔥"*
+> *"Building agentic AI systems and diving deep into MLOps pipelines"*
 
 </div>
 
@@ -143,7 +143,7 @@
 
 ## ⚡ Fun Fact
 
-> *" I analyze my football match performance with Python scripts the same way I analyze datasets — looking for patterns, weaknesses, and room to improve "*
+> *" I analyze my football match performance with Python scripts the same way I analyze datasets looking for patterns, weaknesses, and room to improve "*
 
 ---
 
@@ -151,6 +151,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,60:1a1a2e,100:0d1117&height=100&section=footer"/>
 
-**If you find my work interesting, drop a star — it motivates me to keep building!**
+**If you find my work interesting, drop a star it motivates me to keep building!**
 
 </div>
